@@ -1,1 +1,1 @@
-https://github.com/alyasitnikova/ono-tebe-nado
+https://github.com/alyasitnikova/ono-tebe-nado.git
