@@ -27,12 +27,13 @@
 }
 
 .header__link {
+  border-bottom: 1px solid black;
   letter-spacing: 1%;
   text-decoration: none;
 }
 
 .header__link_active {
-  border-bottom: 1px solid black;
+  border: none;
 }
 
 .header__logo {
@@ -291,11 +292,12 @@
 }
 
 .footer__menu-link {
+  border-bottom: 1px solid black;
   text-decoration: none;
 }
 
 .footer__menu-link_active {
-  border-bottom: 1px solid black;
+  border: none;
 }
 
 .footer__social-list {
